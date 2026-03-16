@@ -8,6 +8,9 @@
   font-weight: bold;
   cursor: pointer;
 }
+.button6:hover{
+  background-color: rgb(84, 163, 242);
+}
 
 .button7{
   background-color: white;
@@ -19,4 +22,8 @@
   border-radius: 15px;
   font-weight: bold;
   border-width: 1px;
+}
+.button7:hover{
+  background-color: rgb(226, 240, 254);
+  border-width: 2px;
 }

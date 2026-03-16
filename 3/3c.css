@@ -8,4 +8,9 @@
   font-size: 16px;
   font-weight: bold;
   cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+.button3:hover{
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
 }

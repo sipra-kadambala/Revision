@@ -8,6 +8,9 @@
   font-weight: bold;
   cursor: pointer;
 }
+.button4:hover{
+  background-color: rgb(114, 15, 227);
+}
 .button5{
   background-color: white;
   color: rgb(108,117,125);
@@ -19,4 +22,9 @@
   width: 100px;
   font-weight: bold;
   cursor: pointer;
+}
+
+.button5:hover{
+  color: white;
+  background-color: rgb(108,117,125);
 }
