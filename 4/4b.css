@@ -1,11 +1,12 @@
-<style>
-  .add-button{
+.add-button{
     background-color: rgb(255, 216, 20);
     color: black;
     border: none;
-    height: 35px;
-    width: 190px;
-    border-radius: 20px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 25px;
     font-size: medium;
     cursor: pointer;
     transition: background-color 0.15s;
@@ -13,7 +14,3 @@
   .add-button:hover{
     background-color: rgb(255, 164, 28);
   }
-
-</style>
-
-<button class="add-button">Add to Cart</button>
