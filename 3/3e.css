@@ -1,0 +1,22 @@
+.button6{
+  background-color: rgb(10,102,194);
+  color: white;
+  height: 30px;
+  width: 200px;
+  border: none;
+  border-radius: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button7{
+  background-color: white;
+  color: rgb(10,102,194);
+  border-color: rgb(10,102,194);
+  height: 30px;
+  width: 60px;
+  border-style: solid;
+  border-radius: 15px;
+  font-weight: bold;
+  border-width: 1px;
+}

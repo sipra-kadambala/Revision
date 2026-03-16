@@ -1,0 +1,33 @@
+.link1{
+  color: rgb(0,113,133);
+}
+
+.p1{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.p2{
+  color: rgb(0,118,0);
+  font-weight: bold;
+  font-size: 18px;
+}
+.p3{
+  font-size: 18px;
+}
+.button1{
+  background-color: rgb(255,216,20);
+  height: 28px;
+  width: 110px;
+  border: none;
+  border-radius: 16px;
+}
+
+.button2{
+  background-color: rgb(255,164,28);
+  height: 28px;
+  width: 110px;
+  border: none;
+  margin-left: 7px;
+  border-radius: 16px;
+}
