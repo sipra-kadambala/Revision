@@ -1,0 +1,40 @@
+p{
+  text-align: center;
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.p1{
+  color: red;
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.p2{
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.p3{
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.p4{
+  margin-bottom: 20px;
+}
+
+.buy{
+  color: white;
+  background-color: blue;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  font-weight: bold;
+}

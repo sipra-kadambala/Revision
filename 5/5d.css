@@ -1,0 +1,18 @@
+p{
+  font-family: Arial;
+  text-align: center;
+}
+
+.p1{
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 0;
+}
+
+.p2{ 
+  font-size: 16px;
+}
+
+.p3{
+  color: blue;
+}
